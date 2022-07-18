@@ -1,0 +1,6 @@
+entity mosquitto.VfsSdcardFs
+
+components
+{
+    vfs: kl.Vfs
+}
