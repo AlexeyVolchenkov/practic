@@ -1,6 +1,0 @@
-entity mosquitto.VfsRamFs
-
-components
-{
-    vfs: kl.Vfs
-}
