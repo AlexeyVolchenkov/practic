@@ -1,0 +1,6 @@
+entity mosquitto.VfsNet
+
+components
+{
+    vfs: kl.Vfs
+}
